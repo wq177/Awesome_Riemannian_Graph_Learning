@@ -84,6 +84,11 @@ Riemannian graph learning, ？？？？. [Link](???论文链接)
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
 
+## Graph Type
+
+### Dynamic (Temporal) Graph
+
+### Static Graph
 
 ## Tasks/Application
 
