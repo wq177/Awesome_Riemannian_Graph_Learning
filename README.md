@@ -31,7 +31,7 @@ Riemannian graph learning, ？？？？. [Link](???论文链接)
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2025 | **Self-Supervised Continual Graph Learning in Adaptive Riemannian Spaces.** |  COLING  | [Link](https://aclanthology.org/2025.coling-main.43) |  -   |
+| 2025 | **Graph Representation Learning in Hyperbolic Space via Dual-Masked.** |  COLING  | [Link](https://aclanthology.org/2025.coling-main.43) |  -   |
 | 2023 | **Self-Supervised Continual Graph Learning in Adaptive Riemannian Spaces.** |  AAAI  | [Link](https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25586) |  -   |
 
 ### Graph Neural Network
