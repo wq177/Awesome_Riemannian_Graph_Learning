@@ -2,7 +2,7 @@
 
 There is a curated collection of cutting-edge and state-of-the-art papers on Riemannian graph learning methods. We focus on geometric deep learning methods that study non-Euclidean manifolds and curvature-aware representations for graph learning, particularly in hyperbolic and spherical spaces.
 
-We welcome contributions and suggestions of interesting papers and implementations in the area of Riemannian geometry for graph learning.
+:heartbeat: We welcome contributions and suggestions of interesting papers and implementations in the area of Riemannian geometry for graph learning.
 
 :email: If you have any questions or find something missing, feel free to contact: wanqiqi177@163.com.
 
