@@ -6,7 +6,7 @@ We welcome contributions and suggestions of interesting papers and implementatio
 
 If you have any questions or find something missing, feel free to contact: wanqiqi177@163.com.
 
-⭐ :star: If you find this repository helpful for your research or work, please consider giving it a star!
+:star: If you find this repository helpful for your research or work, please consider giving it a star!
 
 --------------
 
