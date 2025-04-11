@@ -112,7 +112,7 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
 | 2025 | **Multi-View Riemannian Manifolds Fusion Enhancement for Knowledge Graph Completion** |    TKDE    | [Link](https://ieeexplore.ieee.org/abstract/document/10884893) | - |
-| 2024 | **IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion** |    arxiv    | [Link](https://arxiv.org/abs/2403.19881) | - |
+| 2024 | **IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion** |    WWW    | [Link](https://arxiv.org/abs/2403.19881) | - |
 | 2024 | **Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations** |    ACL    | [Link](https://aclanthology.org/2024.findings-acl.272/) | - |
 | 2024 | **Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations** |    ACL    | [Link](https://aclanthology.org/2024.findings-acl.272/) | - |
 | 2024 | **Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations** |    ACL    | [Link](https://aclanthology.org/2024.findings-acl.272/) | - |
@@ -131,7 +131,7 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 | 2023 | **Hyperbolic Graph Learning for Social Recommendation** |    TKDE    | [Link](https://ieeexplore.ieee.org/document/10361607) | - |
 | 2022 | **Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation** |    WSDM    | [Link](https://dl.acm.org/doi/10.1145/3488560.3498419) | - |
 | 2021 | **HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering** |    WWW    | [Link](https://dl.acm.org/doi/10.1145/3442381.3450101) | [Link](https://github.com/layer6ai-labs/HGCF.) |
-| 2021 | **Hyperbolic Hypergraphs for Sequential Recommendation** | arxiv | [Link](https://arxiv.org/abs/2108.08134) | - |
+| 2021 | **Hyperbolic Hypergraphs for Sequential Recommendation** | CIKM | [Link](https://arxiv.org/abs/2108.08134) | - |
 | 2021 | **Fully Hyperbolic Graph Convolution Network for Recommendation** |    CIKM    | [Link](https://arxiv.org/abs/2108.04607) | - |
 ### Sampling
 
