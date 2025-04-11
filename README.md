@@ -14,10 +14,6 @@ There is a curated collection of cutting-edge and state-of-the-art papers on Rie
 
 Riemannian Graph Learning is an emerging approach in graph representation learning that incorporates Riemannian geometry to model complex graph-structured data. Unlike traditional Euclidean graph learning methods, Riemannian Graph Learning embeds graphs in non-Euclidean spaces (e.g., hyperbolic or spherical spaces) to better capture hierarchical, scale-free, or other non-linear structures in networks. [Link](???)
 
-<div  align="center">    
-    <img src="frame.png" width=90% />
-</div>
-
 ## Important Survey Papers
 
 | Year | Title                                                        |    Venue    |                            Paper                             | Code |
