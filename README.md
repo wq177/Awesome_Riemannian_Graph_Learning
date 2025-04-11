@@ -1,6 +1,6 @@
 # [A Survey on Riemannian Graph Learning：Towards Foundation Models](???)
 
-There is a curated collection of cutting-edge and state-of-the-art papers on Riemannian graph learning methods. We focus on geometric deep learning methods that study non-Euclidean manifolds and curvature-aware representations for graph learning, particularly in hyperbolic and spherical spaces.
+There is a collection of state-of-the-art papers on Riemannian Graph Learning methods. We focus on geometric deep learning methods that study non-Euclidean manifolds and curvature-aware representations for graph learning, particularly in hyperbolic and spherical spaces.
 
 :heartbeat: We welcome contributions and suggestions of interesting papers and implementations in the area of Riemannian geometry for graph learning.
 
