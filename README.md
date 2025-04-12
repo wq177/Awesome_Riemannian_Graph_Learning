@@ -32,7 +32,7 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 | 2025 | **Graph Representation Learning in Hyperbolic Space via Dual-Masked.** |  COLING  | [Link](https://aclanthology.org/2025.coling-main.43) |  -   |
 | 2024 | **HypMix: Hyperbolic Representation Learning for Graphs with Mixed Hierarchical and Non-hierarchical Structures.** |  CIKM | [Link](https://dl.acm.org/doi/10.1145/3627673.3679940) |  -   |
 | 2023 | **Self-Supervised Continual Graph Learning in Adaptive Riemannian Spaces.** |  AAAI  | [Link](https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25586) |  -   |
-| 2023 | **Hyperbolic Geometric Graph Representation Learning for Hierarchy-imbalance Node Classification.** |  WWW  | [Link](https://aclanthology.org/2025.coling-main.43) |  -   |
+| 2023 | **Hyperbolic Geometric Graph Representation Learning for Hierarchy-imbalance Node Classification.** |  WWW  | [Link](https://aclanthology.org/2025.coling-main.43) |  [link](https://github.com/RingBDStack/HyperIMBA)  |
 | 2022 | **A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning.** |  CIKM  | [Link](https://dl.acm.org/doi/10.1145/3511808.3557222) |  -   |
 
 ### Graph Neural Network
