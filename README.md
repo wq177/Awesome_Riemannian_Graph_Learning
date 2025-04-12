@@ -83,7 +83,7 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
 | 2021 | **Computationally Tractable Riemannian Manifolds for Graph Embeddings.** | AAAI | [Link](https://doi.org/10.48550/arXiv.2002.08665) |  [Link](https://github.com/dalab/matrix-manifolds)  |
-| 2021 | **Symmetric Spaces for Graph Embeddings: A  Finsler-Riemannian Approach.** | ICML | [Link](https://doi.org/10.48550/arXiv.2106.04941) | [Link](https://github.com/fedelopez77/sympa). |
+| 2021 | **Symmetric Spaces for Graph Embeddings: A  Finsler-Riemannian Approach.** | ICML | [Link](https://doi.org/10.48550/arXiv.2106.04941) | [Link](https://github.com/fedelopez77/sympa) |
 | 2021 | **Directed Graph Embeddings in Pseudo-Riemannian Manifolds.** |ICML | [Link](https://doi.org/10.48550/arXiv.2106.08678) |  -  |
 | 2021 | **Group-Wise Hub Identification by Learning Common Graph Embeddings on Grassmannian Manifold.** | IEEE | [Link](https://doi.org/10.1109/TPAMI.2021.3081744) |  -  |
 | 2024 | **IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion** | AAAI | [Link](https://doi.org/10.1145/3589334.3645361) |  -  |
