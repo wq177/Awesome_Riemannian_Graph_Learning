@@ -67,11 +67,6 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
 
-### Graph embedding
-
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-
 ### Graph ODE
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
@@ -79,6 +74,11 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 
 
 ### Meta-learnig
+
+| Year | Title                                                        | Venue |                            Paper                             | Code |
+| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
+
+### Graph embedding
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
