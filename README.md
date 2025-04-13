@@ -82,21 +82,23 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
+| 2024 | **IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion** | AAAI | [Link](https://doi.org/10.1145/3589334.3645361) |  -  |
+| 2024 | **Poincaré Differential Privacy for Hierarchy-Aware Graph Embedding** | AAAI | [Link](https://doi.org/10.48550/arXiv.2312.12183) |  -  |
+| 2024 | **Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations.** | ACL | [Link](https://doi.org/10.18653/v1/2024.findings-acl.272) |  -  |
+| 2023 | **Dimensionality and Curvature Selection of Graph Embedding using Decomposed Normalized Maximum Likelihood Code-Length** | ICDM | [Link](https://doi.org/10.1109/ICDM58522.2023.00201) |  -  |
+| 2024 | **3D Rotation and Translation for Hyperbolic Knowledge Graph Embedding** | EACL | [Link](https://doi.org/10.48550/arXiv.2305.13015) | [Link](https://github.com/yihuazhu111/3h-th)  |
+| 2023 | **ROLE: Rotated Lorentzian Graph Embedding Model for Asymmetric Proximity** | AAAI | [Link](https://doi.org/10.1109/TKDE.2022.3221929) |  -  |
 | 2021 | **Computationally Tractable Riemannian Manifolds for Graph Embeddings.** | AAAI | [Link](https://doi.org/10.48550/arXiv.2002.08665) |  [Link](https://github.com/dalab/matrix-manifolds)  |
 | 2021 | **Symmetric Spaces for Graph Embeddings: A  Finsler-Riemannian Approach.** | ICML | [Link](https://doi.org/10.48550/arXiv.2106.04941) | [Link](https://github.com/fedelopez77/sympa) |
 | 2021 | **Directed Graph Embeddings in Pseudo-Riemannian Manifolds.** |ICML | [Link](https://doi.org/10.48550/arXiv.2106.08678) |  -  |
 | 2021 | **Group-Wise Hub Identification by Learning Common Graph Embeddings on Grassmannian Manifold.** | IEEE | [Link](https://doi.org/10.1109/TPAMI.2021.3081744) |  -  |
-| 2024 | **IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion** | AAAI | [Link](https://doi.org/10.1145/3589334.3645361) |  -  |
-| 2020 | **Curvature Regularization to Prevent Distortion in Graph Embedding** | NeurIPS | [Link](https://doi.org/10.48550/arXiv.2011.14211) |  -  |
-| 2023 | **Dimensionality and Curvature Selection of Graph Embedding using Decomposed Normalized Maximum Likelihood Code-Length** | ICDM | [Link](https://doi.org/10.1109/ICDM58522.2023.00201) |  -  |
-| 2024 | **Poincaré Differential Privacy for Hierarchy-Aware Graph Embedding** | AAAI | [Link](https://doi.org/10.48550/arXiv.2312.12183) |  -  |
-| 2019 | **Multi-relational Poincaré Graph Embeddings.** |NeurIPS | [Link](https://doi.org/10.48550/arXiv.1905.09791) | [Link](https://github.com/ibalazevic/multirelational-poincare)  |
-| 2023 | **ROLE: Rotated Lorentzian Graph Embedding Model for Asymmetric Proximity** | AAAI | [Link](https://doi.org/10.1109/TKDE.2022.3221929) |  -  |
-| 2024 | **Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations.** | ACL | [Link](https://doi.org/10.18653/v1/2024.findings-acl.272) |  -  |
-| 2019 | **Hyperbolic Disk Embeddings for Directed Acyclic Graphs.** | ICML | [Link](https://doi.org/10.48550/arXiv.1902.04335) |  [Link](https://github.com/lapras-inc/disk-embedding)  |
 | 2021 | **Generalization Bounds for Graph Embedding Using Negative Sampling: Linear vs Hyperbolic.** |NeurIPS | [Link](https://proceedings.neurips.cc/paper/2021/file/09779bb7930c8a0a44360e12b538ae3c-Paper.pdf) |  -  |
+| 2020 | **Curvature Regularization to Prevent Distortion in Graph Embedding** | NeurIPS | [Link](https://doi.org/10.48550/arXiv.2011.14211) |  -  |
 | 2020 | **Low-Dimensional Hyperbolic Knowledge Graph Embeddings** | ACL | [Link](https://aclanthology.org/2020.acl-main.617) | [Link](https://github.com/tensorflow/neural-structured-learning)  |
-| 2024 | **3D Rotation and Translation for Hyperbolic Knowledge Graph Embedding** | EACL | [Link](https://doi.org/10.48550/arXiv.2305.13015) | [Link](https://github.com/yihuazhu111/3h-th)  |
+| 2019 | **Multi-relational Poincaré Graph Embeddings.** |NeurIPS | [Link](https://doi.org/10.48550/arXiv.1905.09791) | [Link](https://github.com/ibalazevic/multirelational-poincare)  |
+| 2019 | **Hyperbolic Disk Embeddings for Directed Acyclic Graphs.** | ICML | [Link](https://doi.org/10.48550/arXiv.1902.04335) |  [Link](https://github.com/lapras-inc/disk-embedding)  |
+
+
 
 ## Graph Type
 
