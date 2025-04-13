@@ -91,7 +91,7 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 | 2021 | **Computationally Tractable Riemannian Manifolds for Graph Embeddings.** | AAAI | [Link](https://doi.org/10.48550/arXiv.2002.08665) |  [Link](https://github.com/dalab/matrix-manifolds)  |
 | 2021 | **Symmetric Spaces for Graph Embeddings: A  Finsler-Riemannian Approach.** | ICML | [Link](https://doi.org/10.48550/arXiv.2106.04941) | [Link](https://github.com/fedelopez77/sympa) |
 | 2021 | **Directed Graph Embeddings in Pseudo-Riemannian Manifolds.** |ICML | [Link](https://doi.org/10.48550/arXiv.2106.08678) |  -  |
-| 2021 | **Group-Wise Hub Identification by Learning Common Graph Embeddings on Grassmannian Manifold.** | IEEE | [Link](https://doi.org/10.1109/TPAMI.2021.3081744) |  -  |
+| 2021 | **Group-Wise Hub Identification by Learning Common Graph Embeddings on Grassmannian Manifold.** | PAMI | [Link](https://doi.org/10.1109/TPAMI.2021.3081744) |  -  |
 | 2021 | **Generalization Bounds for Graph Embedding Using Negative Sampling: Linear vs Hyperbolic.** |NeurIPS | [Link](https://proceedings.neurips.cc/paper/2021/file/09779bb7930c8a0a44360e12b538ae3c-Paper.pdf) |  -  |
 | 2020 | **Curvature Regularization to Prevent Distortion in Graph Embedding** | NeurIPS | [Link](https://doi.org/10.48550/arXiv.2011.14211) |  -  |
 | 2020 | **Low-Dimensional Hyperbolic Knowledge Graph Embeddings** | ACL | [Link](https://aclanthology.org/2020.acl-main.617) | [Link](https://github.com/tensorflow/neural-structured-learning)  |
@@ -106,7 +106,7 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2024 | **IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion**| www |[Link](https://dl.acm.org/doi/10.1007/s11280-025-01341-3)| - |
+| 2024 | **IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion**| WWW |[Link](https://dl.acm.org/doi/10.1007/s11280-025-01341-3)| - |
 | 2024 | **oward a Manifold-Preserving Temporal Graph Network in Hyperbolic Space**| IJCAI |[Link](https://doi.org/10.24963/ijcai.2024/484)| - |
 | 2024 | **Hyperbolic Graph Neural Network for Temporal Knowledge Graph Completion.**| LREC |[Link](https://aclanthology.org/2024.lrec-main.743/)| - |
 | 2023 | **HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction.**| WWW |[Link](https://doi.org/10.1145/3543507.3583455)| [Link](https://github.com/tailvyuanliang/hgwavenet) |
@@ -121,7 +121,7 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
 | 2024 | **HGCH: A Hyperbolic Graph Convolution Network Model for Heterogeneous Collaborative Graph Recommendation.**| CIKM |[Link](https://dl.acm.org/doi/10.1109/TKDE.2024.3522960)| - |
 | 2024 | **Multi-Hyperbolic Space-Based Heterogeneous Graph Attention Network.**| ICDM |[Link](https://doi.org/10.1109/ICDM59182.2024.00098)| - |
-| 2024 | **HyperMR: Hyperbolic Hypergraph Multi-hop Reasoning for Knowledge-based Visual Question Answering.**| LREC |[Link](https://aclanthology.org/2024.lrec-main.746/)|[Link](https://github.com/WANGBEAN068/HyperMR) |
+| 2024 | **HyperMR: Hyperbolic Hypergraph Multi-hop Reasoning for Knowledge-based Visual Question Answering.**| LREC-COLING |[Link](https://aclanthology.org/2024.lrec-main.746/)|[Link](https://github.com/WANGBEAN068/HyperMR) |
 | 2023 | **Multi-Order Relations Hyperbolic Fusion for Heterogeneous Graphs.**| CIKM |[Link](https://doi.org/10.1109/ICDM59182.2024.00098)| - |
 | 2023 | **Ollivier-Ricci Curvature for Hypergraphs: A Unified Framework.**|ICLR |[Link](https://doi.org/10.48550/arXiv.2210.12048)| [Link](https://github.com/aidos-lab/orchid) |
 | 2019 | **Hyperbolic Disk Embeddings for Directed Acyclic Graphs.**| ICML |[Link](https://doi.org/10.48550/arXiv.1902.04335)| [Link](https://github.com/lapras-inc/disk-embedding) |
