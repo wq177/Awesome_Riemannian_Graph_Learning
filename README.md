@@ -39,21 +39,43 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
+| Year | **Title**                                                                                               | Venue | Paper | Code |
+|------|---------------------------------------------------------------------------------------------------------|-------|-------|------|
+|      | **Curvature Graph Network**                                                                             |       |       |      |
+|      | **ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network**                           |       |       |      |
+|      | **Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs**                            |       |       |      |
+|      | **A Unification Framework for Euclidean and Hyperbolic Graph Neural Networks**                         |       |       |      |
+|      | **Hyperbolic Graph Neural Networks**                                                                    |       |       |      |
+|      | **A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning**           |       |       |      |
+|      | **A Self-Supervised Mixed-Curvature Graph Neural Network**                                             |       |       |      |
+|      | **Motif-aware Riemannian Graph Neural Network with Generative-Contrastive Learning**                   |       |       |      |
 
 - #### Graph Convolution Network
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
+|      | **Pseudo-Riemannian Graph Convolutional Networks**                                                     |       |       |      |
+|      | **Constant Curvature Graph Convolutional Networks**                                                    |       |       |      |
+|      | **Lorentzian Graph Convolutional Networks**                                                             |       |       |      |
+|      | **Residual Hyperbolic Graph Convolution Networks**                                                     |       |       |      |
+|      | **Hyperbolic Graph Convolutional Neural Networks**                                                     |       |       |      |
+|      | **Dimensionality Selection of Hyperbolic Graph Embeddings using Decomposed Normalized Maximum Likelihood Code-Length** |       |       |      |
+|      | **A Hyperbolic-to-Hyperbolic Graph Convolutional Network**                                             |       |       |      |
 
 - #### Graph Attention Network
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
+|      | **Decoupled Hyperbolic Graph Attention Network for Modeling Substitutable and Complementary Item Relationships** |       |       |      |
+|      | **Decoupled Hyperbolic Graph Attention Network for Cross-domain Named Entity Recognition**             |       |       |      |
+|      | **Multi-Hyperbolic Space-Based Heterogeneous Graph Attention Network**                                 |       |       |      |
+|      | **Multi-view Mixed Attention for Contrastive Learning on Hypergraphs**                                 |       |       |      |
 
 - #### Spiking Neural Network
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
+|      | **Spiking Graph Neural Network on Riemannian Manifolds**                                               |       |       |      |
 
 ### Generative Model
 
@@ -61,22 +83,30 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
+| 2022 | **Curvature Graph Generative Adversarial Networks**                                                    | WWW  |       |      |
 
 - #### Graph Diffusion Adversarial Network
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
+| 2024 | **Hyperbolic Geometric Latent Diffusion Model for Graph Generation**                                   | ICML  |       |      |
+| 2024 | **Hyperbolic Graph Diffusion Model**                                                                    | AAAI  |       |      |
+| 2024 | **A Mixed-Curvature Graph Diffusion Model**                                                             | CIKM  |       |      |
 
 ### Graph ODE
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
+|      | **Pioneer: Physics-informed Riemannian Graph ODE for Entropy-increasing Dynamics**                     |       |       |      |
+|      | **R-ODE: Ricci Curvature Tells When You Will Be Informed**                                             |       |       |      |
 
 
 ### Meta-learnig
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
+|      | **Meta-Learning on Graph with Curvature-Based Analysis**                                                |       |       |      |
+|      | **Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach**                                 |       |       |      |
 
 ### Graph embedding
 
