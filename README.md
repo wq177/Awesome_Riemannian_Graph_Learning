@@ -39,8 +39,6 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| Year | **Title**                                                                                               | Venue | Paper | Code |
-|------|---------------------------------------------------------------------------------------------------------|-------|-------|------|
 |      | **Curvature Graph Network**                                                                             |       |       |      |
 |      | **ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network**                           |       |       |      |
 |      | **Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs**                            |       |       |      |
