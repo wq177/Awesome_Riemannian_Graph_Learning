@@ -39,14 +39,14 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-|      | **Curvature Graph Network**                                                                             |       |       |      |
-|      | **ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network**                           |       |       |      |
-|      | **Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs**                            |       |       |      |
-|      | **A Unification Framework for Euclidean and Hyperbolic Graph Neural Networks**                         |       |       |      |
-|      | **Hyperbolic Graph Neural Networks**                                                                    |       |       |      |
-|      | **A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning**           |       |       |      |
-|      | **A Self-Supervised Mixed-Curvature Graph Neural Network**                                             |       |       |      |
-|      | **Motif-aware Riemannian Graph Neural Network with Generative-Contrastive Learning**                   |       |       |      |
+| 2024 | **Motif-aware Riemannian Graph Neural Network with Generative-Contrastive Learning**                   |  AAAI  |  [Link](https://ojs.aaai.org/index.php/AAAI/article/view/28754)     | [Link](https://github.com/riemanngraph/motifrgc)    |
+| 2023 | **A Unification Framework for Euclidean and Hyperbolic Graph Neural Networks**                         |  IJCAI |  [Link](https://www.ijcai.org/proceedings/2023/431)     |  [Link](https://github.com/oom-debugger/ijcai23)    |
+| 2022 | **A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning**           |  CIKM  |  [Link](https://dl.acm.org/doi/10.1145/3511808.3557222)    |  -   |
+| 2022 | **A Self-Supervised Mixed-Curvature Graph Neural Network**                                             |  AAAI  |  [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20333)    |   -  |
+| 2021 | **ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network**                           |  ICDM  |  [Link](https://ieeexplore.ieee.org/document/9679192)     |  [Link](https://github.com/ringbdstack/ace-hgnn)    |
+| 2021 | **Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs**                            |  AAAI  |  [Link](https://ojs.aaai.org/index.php/AAAI/article/view/16563)     |  -   |
+| 2021 | **Hyperbolic Graph Neural Networks**                                                                   |  NIPS  |  [Link](https://proceedings.neurips.cc/paper/2019/hash/103303dd56a731e377d01f6a37badae3-Abstract.html)     |  [Link](https://github.com/facebookresearch/hgnn) |
+| 2020 | **Curvature Graph Network**                                                                            |  ICLR  |  [Link](https://openreview.net/forum?id=BylEqnVFDB)     |  -   |
 
 - #### Graph Convolution Network
 
