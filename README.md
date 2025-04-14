@@ -64,16 +64,16 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-|      | **Decoupled Hyperbolic Graph Attention Network for Modeling Substitutable and Complementary Item Relationships** |       |       |      |
-|      | **Decoupled Hyperbolic Graph Attention Network for Cross-domain Named Entity Recognition**             |       |       |      |
-|      | **Multi-Hyperbolic Space-Based Heterogeneous Graph Attention Network**                                 |       |       |      |
-|      | **Multi-view Mixed Attention for Contrastive Learning on Hypergraphs**                                 |       |       |      |
+| 2024 | **Multi-Hyperbolic Space-Based Heterogeneous Graph Attention Network**                                 | ICDM  |  [Link](https://ieeexplore.ieee.org/document/10884081)     |   -  |
+| 2024 | **Multi-view Mixed Attention for Contrastive Learning on Hypergraphs**                                 | SIGIR |  [Link](https://dl.acm.org/doi/10.1145/3626772.3657897)     |  [Link](https://github.com/JongsooLee-HYU/MMACL)    |
+| 2023 | **Decoupled Hyperbolic Graph Attention Network for Cross-domain Named Entity Recognition**             | SIGIR |  [Link](https://dl.acm.org/doi/10.1145/3539618.3591662)     |   -   |
+| 2022 | **Decoupled Hyperbolic Graph Attention Network for Modeling Substitutable and Complementary Item Relationships** | CIKM | [Link](https://dl.acm.org/doi/10.1145/3511808.3557281)  |   -   |
 
 - #### Spiking Neural Network
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-|      | **Spiking Graph Neural Network on Riemannian Manifolds**                                               |       |       |      |
+| 2024 | **Spiking Graph Neural Network on Riemannian Manifolds**                                               |  NIPS |  [Link](https://papers.nips.cc/paper_files/paper/2024/hash/3ba7560b4c3e66d760fbdd472cf4a5a9-Abstract-Conference.html)     |  [Link](https://github.com/ZhenhHuang/MSG)    |
 
 ### Generative Model
 
@@ -81,30 +81,30 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2022 | **Curvature Graph Generative Adversarial Networks**                                                    | WWW  |       |      |
+| 2022 | **Curvature Graph Generative Adversarial Networks**                                                    | WWW  |  [Link](https://dl.acm.org/doi/10.1145/3485447.3512199)     |  [Link](https://github.com/ringbdstack/curvgan)    |
 
 - #### Graph Diffusion Adversarial Network
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2024 | **Hyperbolic Geometric Latent Diffusion Model for Graph Generation**                                   | ICML  |       |      |
-| 2024 | **Hyperbolic Graph Diffusion Model**                                                                    | AAAI  |       |      |
-| 2024 | **A Mixed-Curvature Graph Diffusion Model**                                                             | CIKM  |       |      |
+| 2024 | **Hyperbolic Geometric Latent Diffusion Model for Graph Generation**                                   | ICML  |  [Link](https://openreview.net/forum?id=6OkvBGqW62)     |  [Link](https://github.com/ringbdstack/hypdiff)    |
+| 2024 | **Hyperbolic Graph Diffusion Model**                                                                    | AAAI  | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29512)     |  [Link](https://github.com/lf-wen/hgdm)    |
+| 2024 | **A Mixed-Curvature Graph Diffusion Model**                                                             | CIKM  | [Link](https://dl.acm.org/doi/10.1145/3627673.3679708)      |   -   |
 
 ### Graph ODE
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-|      | **Pioneer: Physics-informed Riemannian Graph ODE for Entropy-increasing Dynamics**                     |       |       |      |
-|      | **R-ODE: Ricci Curvature Tells When You Will Be Informed**                                             |       |       |      |
+| 2025 | **Pioneer: Physics-informed Riemannian Graph ODE for Entropy-increasing Dynamics**                     |  AAAI | [Link](https://arxiv.org/abs/2502.03236)      |   -   |
+| 2024 | **R-ODE: Ricci Curvature Tells When You Will Be Informed**                                             |  SIGIR | [Link](https://doi.org/10.1145/3626772.3657954)      |  -   |
 
 
 ### Meta-learnig
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-|      | **Meta-Learning on Graph with Curvature-Based Analysis**                                                |       |       |      |
-|      | **Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach**                                 |       |       |      |
+| 2023 | **Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach**                                 |  NIPS  |  [Link](https://papers.nips.cc/paper_files/paper/2023/hash/8b6a8b010e9a266aad40a024c5976d5c-Abstract-Conference.html)     |  -    |
+| 2020 | **Meta-Learning on Graph with Curvature-Based Analysis**                                                |  AAAI  |  [Link](https://ojs.aaai.org/index.php/AAAI/article/view/7210)     |  -    |
 
 ### Graph embedding
 
