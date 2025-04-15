@@ -58,7 +58,7 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 | 2021 | **A Hyperbolic-to-Hyperbolic Graph Convolutional Network**                                             |  CVPR |  [Link](https://openaccess.thecvf.com/content/CVPR2021/html/Dai_A_Hyperbolic-to-Hyperbolic_Graph_Convolutional_Network_CVPR_2021_paper.html)     |   -   |
 | 2021 | **Lorentzian Graph Convolutional Networks**                                                            | WWW  | [Link](https://dl.acm.org/doi/10.1145/3442381.3449872)      |  -   |
 | 2020 | **Constant Curvature Graph Convolutional Networks**                                                    | ICML | [Link](https://proceedings.mlr.press/v119/bachmann20a.html)      |  -   |
-| 2019 | **Hyperbolic Graph Convolutional Neural Networks**                                                     | NIPS  | [Link](https://proceedings.neurips.cc/paper/2019/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html)      |  [Link](https://github.com/HazyResearch/hgcn)    |
+| 2019 | **Hyperbolic Graph Convolutional Neural Networks**                                                     | NeurIPS  | [Link](https://proceedings.neurips.cc/paper/2019/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html)      |  [Link](https://github.com/HazyResearch/hgcn)    |
 
 - #### Graph Attention Network
 
