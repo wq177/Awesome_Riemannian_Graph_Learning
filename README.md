@@ -45,7 +45,7 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 | 2022 | **A Self-Supervised Mixed-Curvature Graph Neural Network**                                             |  AAAI  |  [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20333)    |   -  |
 | 2021 | **ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network**                           |  ICDM  |  [Link](https://ieeexplore.ieee.org/document/9679192)     |  [Link](https://github.com/ringbdstack/ace-hgnn)    |
 | 2021 | **Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs**                            |  AAAI  |  [Link](https://ojs.aaai.org/index.php/AAAI/article/view/16563)     |  -   |
-| 2021 | **Hyperbolic Graph Neural Networks**                                                                   |  NIPS  |  [Link](https://proceedings.neurips.cc/paper/2019/hash/103303dd56a731e377d01f6a37badae3-Abstract.html)     |  [Link](https://github.com/facebookresearch/hgnn) |
+| 2021 | **Hyperbolic Graph Neural Networks**                                                                   |  NeurIPS  |  [Link](https://proceedings.neurips.cc/paper/2019/hash/103303dd56a731e377d01f6a37badae3-Abstract.html)     |  [Link](https://github.com/facebookresearch/hgnn) |
 | 2020 | **Curvature Graph Network**                                                                            |  ICLR  |  [Link](https://openreview.net/forum?id=BylEqnVFDB)     |  -   |
 
 - #### Graph Convolution Network
@@ -53,7 +53,7 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
 | 2024 | **Residual Hyperbolic Graph Convolution Networks**                                                     | AAAI | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29559)      |   -   |
-| 2022 | **Pseudo-Riemannian Graph Convolutional Networks**                                                     | NIPS | [Link](https://papers.nips.cc/paper_files/paper/2022/hash/16c628ab12dc4caca8e7712affa6c767-Abstract-Conference.html)      |  [Link](https://github.com/xiongbo010/qgcn)    |
+| 2022 | **Pseudo-Riemannian Graph Convolutional Networks**                                                     | NeurIPS | [Link](https://papers.nips.cc/paper_files/paper/2022/hash/16c628ab12dc4caca8e7712affa6c767-Abstract-Conference.html)      |  [Link](https://github.com/xiongbo010/qgcn)    |
 | 2022 | **Dimensionality Selection of Hyperbolic Graph Embeddings using Decomposed Normalized Maximum Likelihood Code-Length** |  ICDM |  [Link](https://ieeexplore.ieee.org/document/10027651)    |   -   |
 | 2021 | **A Hyperbolic-to-Hyperbolic Graph Convolutional Network**                                             |  CVPR |  [Link](https://openaccess.thecvf.com/content/CVPR2021/html/Dai_A_Hyperbolic-to-Hyperbolic_Graph_Convolutional_Network_CVPR_2021_paper.html)     |   -   |
 | 2021 | **Lorentzian Graph Convolutional Networks**                                                            | WWW  | [Link](https://dl.acm.org/doi/10.1145/3442381.3449872)      |  -   |
@@ -73,7 +73,7 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2024 | **Spiking Graph Neural Network on Riemannian Manifolds**                                               |  NIPS |  [Link](https://papers.nips.cc/paper_files/paper/2024/hash/3ba7560b4c3e66d760fbdd472cf4a5a9-Abstract-Conference.html)     |  [Link](https://github.com/ZhenhHuang/MSG)    |
+| 2024 | **Spiking Graph Neural Network on Riemannian Manifolds**                                               |  NeurIPS |  [Link](https://papers.nips.cc/paper_files/paper/2024/hash/3ba7560b4c3e66d760fbdd472cf4a5a9-Abstract-Conference.html)     |  [Link](https://github.com/ZhenhHuang/MSG)    |
 
 ### Generative Model
 
@@ -103,7 +103,7 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 
 | Year | Title                                                        | Venue |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2023 | **Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach**                                 |  NIPS  |  [Link](https://papers.nips.cc/paper_files/paper/2023/hash/8b6a8b010e9a266aad40a024c5976d5c-Abstract-Conference.html)     |  -    |
+| 2023 | **Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach**                                 |  NeurIPS  |  [Link](https://papers.nips.cc/paper_files/paper/2023/hash/8b6a8b010e9a266aad40a024c5976d5c-Abstract-Conference.html)     |  -    |
 | 2020 | **Meta-Learning on Graph with Curvature-Based Analysis**                                                |  AAAI  |  [Link](https://ojs.aaai.org/index.php/AAAI/article/view/7210)     |  -    |
 
 ### Graph embedding
