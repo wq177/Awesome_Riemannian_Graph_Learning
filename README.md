@@ -67,6 +67,7 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 | 2024 | **Multi-Hyperbolic Space-Based Heterogeneous Graph Attention Network**                                 | ICDM  |  [Link](https://ieeexplore.ieee.org/document/10884081)     |   -  |
 | 2023 | **Decoupled Hyperbolic Graph Attention Network for Cross-domain Named Entity Recognition**             | SIGIR |  [Link](https://dl.acm.org/doi/10.1145/3539618.3591662)     |   -   |
 | 2022 | **Decoupled Hyperbolic Graph Attention Network for Modeling Substitutable and Complementary Item Relationships** | CIKM | [Link](https://dl.acm.org/doi/10.1145/3511808.3557281)  |   -   |
+| 2021 | **Hyperbolic Graph Attention Network** | IEEE Trans. Big Data | [Link](https://ieeexplore.ieee.org/abstract/document/9435103)  |   -   |
 
 - #### Spiking Neural Network
 
