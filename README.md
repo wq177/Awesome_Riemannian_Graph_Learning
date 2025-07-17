@@ -19,7 +19,7 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 | Year | Title                                                        |    Venue    |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
 | 2025 | **A Survey on Riemannian Graph Learning：Towards Foundation Models** |    ？？？    | [Link](？？？？) | - |
-|2024|**A Survey of Geometric Graph Neural Networks: Data Structures, Models and Applications**| FCS | [Link](https://arxiv.org/abs/2403.00485) |-|
+| 2025 |**A Survey of Geometric Graph Neural Networks: Data Structures, Models and Applications**| FCS | [Link](https://arxiv.org/abs/2403.00485) |-|
 | 2022 | **Hyperbolic Graph Neural Network：A Review of Methods and Applications** |    arxiv   | [Link](https://arxiv.org/abs/2202.13852) | - |
 
 ----
