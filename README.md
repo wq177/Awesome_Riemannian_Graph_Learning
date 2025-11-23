@@ -4,7 +4,7 @@ There is a collection of state-of-the-art papers on Riemannian Graph Learning me
 
 :heartbeat: We welcome contributions and suggestions of interesting papers and implementations in the area of Riemannian geometry for graph learning.
 
-:email: If you have any questions or find something missing, feel free to contact: wanqiqi177@163.com.
+:email: If you have any questions or find something missing, feel free to contact: wanqiqi577@outlook.com.
 
 :star: If you find this repository helpful for your research or work, please consider giving it a star!
 
