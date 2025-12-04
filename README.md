@@ -4,7 +4,7 @@ There is a collection of state-of-the-art papers on Riemannian Graph Learning me
 
 :heartbeat: We welcome contributions and suggestions of interesting papers and implementations in the area of Riemannian geometry for graph learning.
 
-:email: If you have any questions or find something missing, feel free to contact: wanqiqi577@outlook.com.
+:email: If you have any questions or find something missing, feel free to contact: lsun@bupt.edu.cn.
 
 :star: If you find this repository helpful for your research or work, please consider giving it a star!
 
@@ -18,7 +18,6 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 
 | Year | Title                                                        |    Venue    |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
-<!-- | 2025 | **A Survey on Riemannian Graph Learning：Towards Foundation Models** |    ？？？    | [Link](？？？？) | - | -->
 | 2022 | **Hyperbolic Graph Neural Network：A Review of Methods and Applications** |    arxiv   | [Link](https://arxiv.org/abs/2202.13852) | - |
 
 ----
