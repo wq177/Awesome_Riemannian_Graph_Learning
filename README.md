@@ -18,197 +18,151 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 
 | Year | Title                                                        |    Venue    |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
-| 2025 | **A Survey on Riemannian Graph Learning：Towards Foundation Models** |    ？？？    | [Link](？？？？) | - |
+<!-- | 2025 | **A Survey on Riemannian Graph Learning：Towards Foundation Models** |    ？？？    | [Link](？？？？) | - | -->
 | 2022 | **Hyperbolic Graph Neural Network：A Review of Methods and Applications** |    arxiv   | [Link](https://arxiv.org/abs/2202.13852) | - |
 
 ----
 
 # Papers
 
-## Riemannian Graph Learnig
+## Hyperbolic manifold
 
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2025 | **Graph Representation Learning in Hyperbolic Space via Dual-Masked.** |  COLING  | [Link](https://aclanthology.org/2025.coling-main.43) |  -   |
-| 2024 | **HypMix: Hyperbolic Representation Learning for Graphs with Mixed Hierarchical and Non-hierarchical Structures.** |  CIKM | [Link](https://dl.acm.org/doi/10.1145/3627673.3679940) |  -   |
-| 2023 | **Self-Supervised Continual Graph Learning in Adaptive Riemannian Spaces.** |  AAAI  | [Link](https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25586) |  -   |
-| 2023 | **Hyperbolic Geometric Graph Representation Learning for Hierarchy-imbalance Node Classification.** |  WWW  | [Link](https://aclanthology.org/2025.coling-main.43) |  [link](https://github.com/RingBDStack/HyperIMBA)  |
-| 2022 | **A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning.** |  CIKM  | [Link](https://dl.acm.org/doi/10.1145/3511808.3557222) |  -   |
+| Year | Title | Venue | Code | Architecture | Paradigm |
+|:----:|:---------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----:|:---:|:---:|
+| 2019 | **Continuous hierarchical representations with poincar´e variational auto-encoders** | NeurIPS | [Link](https://github.com/emilemathieu/pvae) | VAE | N/A |
+| 2019 | **Hyperbolic Graph Convolutional Networks.** | NeurIPS | [Link](https://snap.stanford.edu/hgcn/) | Convolution | Semi-supervised |
+| 2019 | **Hyperbolic Graph Neural Networks** | NeurIPS | [Link](https://github.com/facebookresearch/hgnn) | Convolution | Semi-supervised |
+| 2020 | **H2KGAT: Hierarchical Hyperbolic Knowledge Graph Attention Network** | EMNLP | N/A | Convolution | Semi-supervised |
+| 2020 | **Latent Variable Modelling with Hyperbolic Normalizing Flows** | ICML | N/A | Flow model and Flow matching | Generative |
+| 2020 | **Low-Dimensional Hyperbolic Knowledge Graph Embeddings** | ACL | [Link](https://github.com/tensorflow/neural-structured-learning/tree/master/research/kg_hyp_emb) | Convolution | Semi-supervised |
+| 2021 | **ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network** | ICDM | [Link](https://github.com/RingBDStack/ACE-HGNN) | Convolution | N/A |
+| 2021 | **A Hyperbolic-to-Hyperbolic Graph Convolutional Network** | CVPR | N/A | Convolution | Semi-supervised |
+| 2021 | **DataType-Aware Knowledge Graph Representation Learning in Hyperbolic Space** | CIKM | N/A | Convolution | N/A |
+| 2021 | **HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering** | WWW | [Link](https://github.com/layer6ai-labs/HGCF) | Convolution | Semi-supervised |
+| 2021 | **Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs** | AAAI | N/A | VAE | Generative |
+| 2021 | **LEARNING HYPERBOLIC REPRESENTATIONS OF TOPO LOGICAL FEATURES** | ICLR | [Link](https://www.google.com/search?q=https://github.com/pkyriakis/permanifold/) | Convolution | Semi-supervised |
+| 2021 | **Lorentzian Graph Convolutional Networks** | WWW | N/A | Convolution | Semi-supervised |
+| 2022 | **Curvature Graph Generative Adversarial Networks** | WWW | [Link](https://github.com/RingBDStack/CurvGAN) | VAE | Generative |
+| 2023 | **H-Diffu: Hyperbolic Representations for Information Diffusion Prediction** | TKDE | N/A | SDE | N/A |
+| 2023 | **HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction** | WWW | [Link](https://github.com/TaiLvYuanLiang/HGWaveNet) | Convolution | Semi-supervised |
+| 2023 | **Hyperbolic diffusion embedding and distance for hierarchical representation learning** | ICML | N/A | N/A | Unsupervised |
+| 2023 | **Hyperbolic Geometric Graph Representation Learning for Hierarchy-imbalance Node Classification** | WWW | [Link](https://github.com/RingBDStack/HyperIMBA) | Convolution | Semi-supervised |
+| 2023 | **Hyperbolic representation learning: Revisiting and advancing** | ICML | N/A | Convolution | Semi-supervised |
+| 2023 | **Hyperbolic VAE via Latent Gaussian Distributions** | NeurIPS | [Link](https://github.com/ml-postech/GM-VAE) | VAE | N/A |
+| 2023 | **Multi-Order Relations Hyperbolic Fusion for Heterogeneous Graphs** | CIKM | N/A | Convolution | Self-supervised |
+| 2023 | **RotDiff: A Hyperbolic Rotation Representation Model for Information Diffusion Prediction.** | CIKM | [Link](https://github.com/PlaymakerQ/RotDiff) | Transformer | Generative |
+| 2023 | **Self-supervised Continual Graph Learning in Adaptive Riemannian Spaces** | WWW | N/A | Convolution | Continual Learning |
+| 2024 | **Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations** | ACL | [Link](https://www.google.com/search?q=https://github.com/LorentzKG/LorentzKG) | Convolution | Semi-supervised |
+| 2024 | **Hypformer: Exploring Efficient Transformer Fully in Hyperbolic Space** | KDD | [Link](https://www.google.com/search?q=https://github.com/Graph-and-Geometric-Learning/hyperbolic-transformer) | Transformer | Semi-supervised |
+| 2024 | **HypMix: Hyperbolic Representation Learning for Graphs with Mixed Hierarchical and Non-hierarchical Structures** | CIKM | N/A | Convolution | Unsupervised |
+| 2024 | **Multi-Hyperbolic Space-Based Heterogeneous Graph Attention Network** | ICDM | N/A | Convolution | Semi-supervised |
+| 2024 | **Residual Hyperbolic Graph Convolution Networks** | AAAI | N/A | Convolution | Semi-supervised |
+| 2024 | **Toward a Manifold-Preserving Temporal Graph Network in Hyperbolic Space** | IJCAI | [Link](https://github.com/quanlv9211/HMPTGN) | Convolution | Semi-supervised |
+| 2024 | **LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering** | ICML | [Link](https://github.com/ZhenhHuang/LSEnet) | Clustering | Unsupervised |
+| 2024 | **HGCH: A Hyperbolic Graph Convolution Network Model for Heterogeneous Collaborative Graph Recommendation** | CIKM | [Link](https://github.com/LukeZane118/HGCH) | Convolution | Semi-supervised |
+| 2024 | **Hyperbolic Geometric Latent Diffusion Model for Graph Generatio** | NeurIPS | [Link](https://github.com/RingBDStack/HypDiff) | SDE | Generative |
+| 2024 | **Spiking Graph Neural Network on Riemannian Manifolds** | NeurIPS | [Link](https://github.com/ZhenhHuang/MSG) | Spiking | N/A |
+| 2025 | **THGNets: Constrained Temporal Hypergraphs and Graph Neural Networks in Hyperbolic Space for Information Diffusion Prediction** | AAAI | N/A | Convolution | Semi-supervised |
+| 2025 | **HyperDefender: A Robust Framework for Hyperbolic GNNs** | AAAI | [Link](https://www.google.com/search?q=https://github.com/nikimal99/HyperDefender.git) | Convolution | Semi-supervised |
+| 2025 | **Hyperbolic Graph Diffusion Model.** | AAAI | [Link](https://github.com/LF-WEN/HGDM) | SDE | Generative |
+| 2025 | **MHR: A Multi-Modal Hyperbolic Representation Framework for Fake News Detection** | TKDE | N/A | Convolution | Semi-supervised |
+| 2025 | **Hgformer: Hyperbolic Graph Transformer for Collaborative Filtering** | ICML | N/A | Transformer | Semi-supervised |
+| 2025 | **Hyperbolic-PDE GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations** | ICML | [Link](https://github.com/YueAWu/Hyperbolic-GNN) | Convolution | N/A |
+| 2025 | **Understanding and Mitigating Hyperbolic Dimensional Collapse in Graph Contrastive Learning** | KDD | N/A | Convolution | Unsupervised Learning |
+| 2025 | **Towards Effective, Efficient and Unsupervised Social Event Detection in the Hyperbolic Space** | AAAI | [Link](https://github.com/XiaoyanWork/HyperSED) | Convolution | Semi-supervised |
+| 2025 | **Hyperbolic Diffusion Recommender Model** | WWW | [Link](https://github.com/yuanmeng-cpu/HDRM) | SDE | N/A |
+| 2025 | **Hyperbolic Multi-semantic Transition for Next POI Recommendation** | WWW | [Link](https://github.com/PlaymakerQ/HMST) | N/A | N/A |
+| 2025 | **Hyperbolic Variational Graph Auto-Encoder for Next POI Recommendation** | WWW | N/A | VAE | N/A |
+| 2025 | **Hyperbolic-Euclidean Deep Mutual Learning** | WWW | [Link](https://github.com/caohaifang123/H-EDML) | Convolution | Self-supervised  |
+| 2025 | **VoRec: Enhancing Recommendation with Voronoi Diagram in Hyperbolic Space** | SIGIR | [Link](https://github.com/s35lay/VoRec) | Convolution | Semi-supervised  |
+| 2025 | **Hyperbolic Multi-Criteria Rating Recommendation** | SIGIR | N/A | Convolution | Semi-supervised  |
 
-### Graph Neural Network
+## Spherical manifold 
 
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2024 | **Motif-aware Riemannian Graph Neural Network with Generative-Contrastive Learning**                   |  AAAI  |  [Link](https://ojs.aaai.org/index.php/AAAI/article/view/28754)     | [Link](https://github.com/riemanngraph/motifrgc)    |
-| 2023 | **A Unification Framework for Euclidean and Hyperbolic Graph Neural Networks**                         |  IJCAI |  [Link](https://www.ijcai.org/proceedings/2023/431)     |  [Link](https://github.com/oom-debugger/ijcai23)    |
-| 2022 | **A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning**           |  CIKM  |  [Link](https://dl.acm.org/doi/10.1145/3511808.3557222)    |  -   |
-| 2022 | **A Self-Supervised Mixed-Curvature Graph Neural Network**                                             |  AAAI  |  [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20333)    |   -  |
-| 2021 | **ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network**                           |  ICDM  |  [Link](https://ieeexplore.ieee.org/document/9679192)     |  [Link](https://github.com/ringbdstack/ace-hgnn)    |
-| 2021 | **Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs**                            |  AAAI  |  [Link](https://ojs.aaai.org/index.php/AAAI/article/view/16563)     |  -   |
-| 2021 | **Hyperbolic Graph Neural Networks**                                                                   |  NeurIPS  |  [Link](https://proceedings.neurips.cc/paper/2019/hash/103303dd56a731e377d01f6a37badae3-Abstract.html)     |  [Link](https://github.com/facebookresearch/hgnn) |
-| 2020 | **Curvature Graph Network**                                                                            |  ICLR  |  [Link](https://openreview.net/forum?id=BylEqnVFDB)     |  -   |
+| Year | Title | Venue | Code | Architecture | Paradigm |
+|:----:|:---------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----:|:---:|:---:|
+| 2020 | **DeepSphere: a graph-based spherical CNN** | ICLR | [Link](https://github.com/deepsphere) | Convolution | Semi-supervised |
+| 2022 | **Learning Hypersphere for Few-shot Anomaly Detection on Attributed Networks** | CIKM | N/A | Convolution | Semi-supervised |
+| 2022 | **Spherical Message Passing for 3D Molecular Graphs** | ICLR | [Link](https://github.com/divelab/DIG) | Convolution | Semi-supervised |
+| 2022 | **Spherical Graph Embedding for Item Retrieval in Recommendation System.** | CIKM | N/A | Convolution | N/A |
 
-- #### Graph Convolution Network
+## Constant Curvature Space
 
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2024 | **Residual Hyperbolic Graph Convolution Networks**                                                     | AAAI | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29559)      |   -   |
-| 2022 | **Pseudo-Riemannian Graph Convolutional Networks**                                                     | NeurIPS | [Link](https://papers.nips.cc/paper_files/paper/2022/hash/16c628ab12dc4caca8e7712affa6c767-Abstract-Conference.html)      |  [Link](https://github.com/xiongbo010/qgcn)    |
-| 2022 | **Dimensionality Selection of Hyperbolic Graph Embeddings using Decomposed Normalized Maximum Likelihood Code-Length** |  ICDM |  [Link](https://ieeexplore.ieee.org/document/10027651)    |   -   |
-| 2021 | **A Hyperbolic-to-Hyperbolic Graph Convolutional Network**                                             |  CVPR |  [Link](https://openaccess.thecvf.com/content/CVPR2021/html/Dai_A_Hyperbolic-to-Hyperbolic_Graph_Convolutional_Network_CVPR_2021_paper.html)     |   -   |
-| 2021 | **Lorentzian Graph Convolutional Networks**                                                            | WWW  | [Link](https://dl.acm.org/doi/10.1145/3442381.3449872)      |  -   |
-| 2020 | **Constant Curvature Graph Convolutional Networks**                                                    | ICML | [Link](https://proceedings.mlr.press/v119/bachmann20a.html)      |  -   |
-| 2019 | **Hyperbolic Graph Convolutional Neural Networks**                                                     | NeurIPS  | [Link](https://proceedings.neurips.cc/paper/2019/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html)      |  [Link](https://github.com/HazyResearch/hgcn)    |
-
-- #### Graph Attention Network
-
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2024 | **Multi-Hyperbolic Space-Based Heterogeneous Graph Attention Network**                                 | ICDM  |  [Link](https://ieeexplore.ieee.org/document/10884081)     |   -  |
-| 2023 | **Decoupled Hyperbolic Graph Attention Network for Cross-domain Named Entity Recognition**             | SIGIR |  [Link](https://dl.acm.org/doi/10.1145/3539618.3591662)     |   -   |
-| 2022 | **Decoupled Hyperbolic Graph Attention Network for Modeling Substitutable and Complementary Item Relationships** | CIKM | [Link](https://dl.acm.org/doi/10.1145/3511808.3557281)  |   -   |
-| 2021 | **Hyperbolic Graph Attention Network** | IEEE Trans. Big Data | [Link](https://ieeexplore.ieee.org/abstract/document/9435103)  |   -   |
-
-- #### Spiking Neural Network
-
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2024 | **Spiking Graph Neural Network on Riemannian Manifolds**                                               |  NeurIPS |  [Link](https://papers.nips.cc/paper_files/paper/2024/hash/3ba7560b4c3e66d760fbdd472cf4a5a9-Abstract-Conference.html)     |  [Link](https://github.com/ZhenhHuang/MSG)    |
-
-### Generative Model
-
-- #### Graph Generative Adversarial Network
-
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2022 | **Curvature Graph Generative Adversarial Networks**                                                    | WWW  |  [Link](https://dl.acm.org/doi/10.1145/3485447.3512199)     |  [Link](https://github.com/ringbdstack/curvgan)    |
-
-- #### Graph Diffusion Adversarial Network
-
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2024 | **Hyperbolic Geometric Latent Diffusion Model for Graph Generation**                                   | ICML  |  [Link](https://openreview.net/forum?id=6OkvBGqW62)     |  [Link](https://github.com/ringbdstack/hypdiff)    |
-| 2024 | **Hyperbolic Graph Diffusion Model**                                                                    | AAAI  | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29512)     |  [Link](https://github.com/lf-wen/hgdm)    |
-| 2024 | **A Mixed-Curvature Graph Diffusion Model**                                                             | CIKM  | [Link](https://dl.acm.org/doi/10.1145/3627673.3679708)      |   -   |
-
-### Graph ODE
-
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2025 | **Pioneer: Physics-informed Riemannian Graph ODE for Entropy-increasing Dynamics**                     |  AAAI | [Link](https://arxiv.org/abs/2502.03236)      |   -   |
-| 2024 | **R-ODE: Ricci Curvature Tells When You Will Be Informed**                                             |  SIGIR | [Link](https://doi.org/10.1145/3626772.3657954)      |  -   |
-
-
-### Meta-learnig
-
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2023 | **Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach**                                 |  NeurIPS  |  [Link](https://papers.nips.cc/paper_files/paper/2023/hash/8b6a8b010e9a266aad40a024c5976d5c-Abstract-Conference.html)     |  -    |
-| 2020 | **Meta-Learning on Graph with Curvature-Based Analysis**                                                |  AAAI  |  [Link](https://ojs.aaai.org/index.php/AAAI/article/view/7210)     |  -    |
-
-### Graph embedding
-
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2024 | **IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion** | AAAI | [Link](https://doi.org/10.1145/3589334.3645361) |  -  |
-| 2024 | **Poincaré Differential Privacy for Hierarchy-Aware Graph Embedding** | AAAI | [Link](https://doi.org/10.48550/arXiv.2312.12183) |  -  |
-| 2024 | **Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations.** | ACL | [Link](https://doi.org/10.18653/v1/2024.findings-acl.272) |  -  |
-| 2023 | **Dimensionality and Curvature Selection of Graph Embedding using Decomposed Normalized Maximum Likelihood Code-Length** | ICDM | [Link](https://doi.org/10.1109/ICDM58522.2023.00201) |  -  |
-| 2024 | **3D Rotation and Translation for Hyperbolic Knowledge Graph Embedding** | EACL | [Link](https://doi.org/10.48550/arXiv.2305.13015) | [Link](https://github.com/yihuazhu111/3h-th)  |
-| 2023 | **ROLE: Rotated Lorentzian Graph Embedding Model for Asymmetric Proximity** | AAAI | [Link](https://doi.org/10.1109/TKDE.2022.3221929) |  -  |
-| 2021 | **Computationally Tractable Riemannian Manifolds for Graph Embeddings.** | AAAI | [Link](https://doi.org/10.48550/arXiv.2002.08665) |  [Link](https://github.com/dalab/matrix-manifolds)  |
-| 2021 | **Symmetric Spaces for Graph Embeddings: A  Finsler-Riemannian Approach.** | ICML | [Link](https://doi.org/10.48550/arXiv.2106.04941) | [Link](https://github.com/fedelopez77/sympa) |
-| 2021 | **Directed Graph Embeddings in Pseudo-Riemannian Manifolds.** |ICML | [Link](https://doi.org/10.48550/arXiv.2106.08678) |  -  |
-| 2021 | **Group-Wise Hub Identification by Learning Common Graph Embeddings on Grassmannian Manifold.** | PAMI | [Link](https://doi.org/10.1109/TPAMI.2021.3081744) |  -  |
-| 2021 | **Generalization Bounds for Graph Embedding Using Negative Sampling: Linear vs Hyperbolic.** |NeurIPS | [Link](https://proceedings.neurips.cc/paper/2021/file/09779bb7930c8a0a44360e12b538ae3c-Paper.pdf) |  -  |
-| 2020 | **Curvature Regularization to Prevent Distortion in Graph Embedding** | NeurIPS | [Link](https://doi.org/10.48550/arXiv.2011.14211) |  -  |
-| 2020 | **Low-Dimensional Hyperbolic Knowledge Graph Embeddings** | ACL | [Link](https://aclanthology.org/2020.acl-main.617) | [Link](https://github.com/tensorflow/neural-structured-learning)  |
-| 2019 | **Multi-relational Poincaré Graph Embeddings.** |NeurIPS | [Link](https://doi.org/10.48550/arXiv.1905.09791) | [Link](https://github.com/ibalazevic/multirelational-poincare)  |
-| 2019 | **Hyperbolic Disk Embeddings for Directed Acyclic Graphs.** | ICML | [Link](https://doi.org/10.48550/arXiv.1902.04335) |  [Link](https://github.com/lapras-inc/disk-embedding)  |
+| Year | Title | Venue | Code | Architecture | Paradigm |
+|:----:|:---------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----:|:---:|:---:|
+| 2020 | **DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion** | EMNLP | [Link](https://github.com/malllabiisc/HyTE) | Convolution | Self-supervised |
+| 2020 | **Mixed-curvature Variational Autoencoders** | ICLR | [Link](https://github.com/oskopek/mvae) | VAE | Unsupervised |
+| 2021 | **Mixed-Curvature Multi-Relational Graph Neural Network for Knowledge Graph Completion** | WWW | N/A | Convolution | Semi-supervised |
+| 2022 | **A Self-supervised Mixed-curvature Graph Neural Network** | AAAI | N/A | Convolution | Self-supervised |
+| 2024 | **HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces** | AAAI | [Link](https://github.com/NacyNiko/HGE) | Convolution | Self-supervised |
+| 2024 | **IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion** | WWW | N/A | Convolution | Semi-supervised |
+| 2025 | **Mixed-Curvature Multi-Modal Knowledge Graph Completion** | AAAI | N/A | Convolution | Semi-supervised |
 
 
+## Product and Quotient Space
 
-## Graph Type
+| Year | Title | Venue | Code | Architecture | Paradigm |
+|:----:|:---------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:---:|:---:|:---:|
+| 2020 | **Constant Curvature Graph Convolutional Network** | ICML | N/A | Convolution | Semi-supervised |
+| 2020 | **DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion** | EMNLP | [Link](https://github.com/malllabiisc/HyTE) | Convolution | Self-supervised |
+| 2020 | **Mixed-curvature Variational Autoencoders** | ICLR | [Link](https://github.com/oskopek/mvae) | VAE | N/A |
+| 2021 | **Mixed-Curvature Multi-Relational Graph Neural Network for Knowledge Graph Completion** | WWW | N/A | Convolution | Self-supervised |
+| 2022 | **A Self-supervised Mixed-curvature Graph Neural Network** | AAAI | N/A | Convolution | Self-supervised |
+| 2024 | **HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces** | AAAI | [Link](https://github.com/NacyNiko/HGE) | Convolution | Self-supervised |
+| 2024 | **A Mixed-Curvature Graph Diffusion Model** | CIKM | [Link](https://github.com/ProGDM) | SDE | Generative |
+| 2024 | **IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion** | WWW | N/A | Convolution | Semi-supervised |
+| 2025 | **Toward a Unified Geometry Understanding: Riemannian Diffusion Framework for Graph Generation and Prediction** | NeurIPS | [Link](https://github.com/RingBDStack/GeoMancer) | SDE | Semi-supervised |
+| 2025 | **GraphMoRE: Mitigating Topological Heterogeneity via Mixture of Riemannian Experts** | AAAI | [Link](https://github.com/RingBDStack/GraphMoRE) | Convolution | Self-supervised |
+| 2025 | **Mixed-Curvature Multi-Modal Knowledge Graph Completion** | AAAI | N/A | Convolution | Unsupervised |
+| 2025 | **RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry** | WWW | [Link](https://github.com/RiemannGraph/RiemannGFM) | GFM | Semi-supervised |
 
-### Dynamic (Temporal) Graph
+## Pseudo-Riemannian Manifold
 
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2024 | **IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion**| WWW |[Link](https://dl.acm.org/doi/10.1007/s11280-025-01341-3)| - |
-| 2024 | **oward a Manifold-Preserving Temporal Graph Network in Hyperbolic Space**| IJCAI |[Link](https://doi.org/10.24963/ijcai.2024/484)| - |
-| 2024 | **Hyperbolic Graph Neural Network for Temporal Knowledge Graph Completion.**| LREC |[Link](https://aclanthology.org/2024.lrec-main.743/)| - |
-| 2023 | **HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction.**| WWW |[Link](https://doi.org/10.1145/3543507.3583455)| [Link](https://github.com/tailvyuanliang/hgwavenet) |
-| 2022 | **A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning.**| CIKM |[Link](https://doi.org/10.1145/3511808.3557222)| - |
-| 2022 | **THINK: Temporal Hypergraph Hyperbolic Network.**| ICDM |[Link](https://doi.org/10.1109/ICDM54844.2022.00096)| - |
-| 2021 | **Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs.**| AAAI |[Link](https://doi.org/10.1609/aaai.v35i5.16563)| - |
+| Year | Title | Venue | Code | Architecture | Paradigm |
+|:----:|:-------------------------------------------------------------------------------------------------|:-----:|:----:|:---:|:---:|
+| 2020 | **Ultrahyperbolic Representation Learning** | NeurIPS | N/A | Convolution | Semi-supervised |
+| 2021 | **Ultrahyperbolic Neural Networks** | NeurIPS | N/A | Convolution | Semi-supervised |
+| 2021 | **Directed Graph Embeddings in Pseudo-Riemannian Manifolds.** | ICML | N/A | Convolution | Semi-supervised |
+| 2022 | **Pseudo-Riemannian Graph Convolutional Networks** | NeurIPS | [Link](https://www.google.com/search?q=https://github.com/xiongbo010/QGCN.) | Convolution | Semi-supervised |
+| 2022 | **Ultrahyperbolic Knowledge Graph Embeddings** | KDD | N/A | Convolution | Semi-supervised |
+| 2025 | **Pseudo-Riemannian Graph Transformer** | NeurIPS | [Link](https://github.com/xiongbo010/QGCN) | Transformer | Semi-supervised |
+
+## Grassmann Manifold
 
 
-### Static Graph
+| Year | Title | Venue | Code | Architecture | Paradigm |
+|:----:|:-------------------------------------------------------------------------------------------------------------------|:-----:|:----:|:---:|:---:|
+| 2022 | **Embedding graphs on Grassmann manifold** | Neural Network | [Link](https://github.com/conf20/Egg) | N/A | N/A |
+| 2023 | **Building Neural Networks on Matrix Manifolds: A Gyrovector Space Approach** | ICML | [Link](https://github.com/zhiwu-huang/SPDNet) | Convolution | Semi-supervised |
+| 2024 | **Matrix Manifold Neural Networks++** | ICLR | [Link](https://github.com/zhiwu-huang/SPDNet) | Convolution | Semi-supervised |
+| 2024 | **Cross-View Approximation on Grassmann Manifold for Multiview Clustering** | TNNLS | N/A | N/A | Unsupervised |
+| 2024 | **Multiple Kernel Clustering with Shifted Laplacian on Grassmann Manifold** | MM | N/A | N/A | Semi-supervised |
 
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2024 | **HGCH: A Hyperbolic Graph Convolution Network Model for Heterogeneous Collaborative Graph Recommendation.**| CIKM |[Link](https://dl.acm.org/doi/10.1109/TKDE.2024.3522960)| - |
-| 2024 | **Multi-Hyperbolic Space-Based Heterogeneous Graph Attention Network.**| ICDM |[Link](https://doi.org/10.1109/ICDM59182.2024.00098)| - |
-| 2024 | **HyperMR: Hyperbolic Hypergraph Multi-hop Reasoning for Knowledge-based Visual Question Answering.**| LREC-COLING |[Link](https://aclanthology.org/2024.lrec-main.746/)|[Link](https://github.com/WANGBEAN068/HyperMR) |
-| 2023 | **Multi-Order Relations Hyperbolic Fusion for Heterogeneous Graphs.**| CIKM |[Link](https://doi.org/10.1109/ICDM59182.2024.00098)| - |
-| 2023 | **Ollivier-Ricci Curvature for Hypergraphs: A Unified Framework.**|ICLR |[Link](https://doi.org/10.48550/arXiv.2210.12048)| [Link](https://github.com/aidos-lab/orchid) |
-| 2019 | **Hyperbolic Disk Embeddings for Directed Acyclic Graphs.**| ICML |[Link](https://doi.org/10.48550/arXiv.1902.04335)| [Link](https://github.com/lapras-inc/disk-embedding) |
 
-## Tasks/Application
+## SPD Manifold
 
-### Clustering
+| Year | Title | Venue | Code | Architecture | Paradigm |
+|:----:|:-----------------------------------------------------------------------------------------------------------------------------------|:-----:|:----:|:---:|:---:|
+| 2023 | **Building Neural Networks on Matrix Manifolds: A Gyrovector Space Approach** | ICML | [Link](https://github.com/zhiwu-huang/SPDNet) | Convolution | Semi-supervised |
+| 2024 | **Matrix Manifold Neural Networks++** | ICLR | [Link](https://github.com/zhiwu-huang/SPDNet) | Convolution | Semi-supervised |
+| 2024 | **Graph Neural Networks on SPD Manifolds for Motor Imagery Classification: A Perspective From the Time-Frequency Analysis** | TNNLS | [Link](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet) | Convolution | Semi-supervised |
+| 2025 | **Learning to Normalize on the SPD Manifold under Bures-Wasserstein Geometry** | CVPR | [Link](https://github.com/jjscc/GBWBN) | N/A | N/A |
 
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2024 | **LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering** |    ICML    | [Link](https://arxiv.org/abs/2405.11801)  | - |
-| 2024 | **RicciNet: Deep Clustering via A Riemannian Generative Model** |    WWW    | [Link](https://dl.acm.org/doi/10.1145/3589334.3645428) | - |
-| 2023 | **Contrastive Graph Clustering in Curvature Spaces** |     IJCAI    | [Link](https://arxiv.org/abs/2305.03555) | - |
-| 2021 | **Low-Rank Riemannian Optimization for Graph-Based Clustering Applications** |    PAMI    | [Link](https://ieeexplore.ieee.org/abstract/document/9409736) | - |
-### Link Prediction
 
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2024 | **RCoCo: Contrastive Collective Link Prediction across Multiplex Network in Riemannian Space** |  JMLC  | [Link](https://arxiv.org/abs/2403.01864) | - |
-| 2023 | **HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction** |    WWW    | [Link](https://arxiv.org/abs/2304.07302) | - |
-| 2021 | **Interpretable Signed Link Prediction With Signed Infomax Hyperbolic Graph** |    TKDE    | [Link](https://ieeexplore.ieee.org/document/9665299) | - |
-### Knowledge Graph
+## Generic Manifold
 
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2025 | **Multi-View Riemannian Manifolds Fusion Enhancement for Knowledge Graph Completion** |    TKDE    | [Link](https://ieeexplore.ieee.org/abstract/document/10884893) | - |
-| 2024 | **IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion** |    WWW    | [Link](https://arxiv.org/abs/2403.19881) | - |
-| 2024 | **Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations** |    ACL    | [Link](https://aclanthology.org/2024.findings-acl.272/) | - |
-| 2024 | **Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations** |    ACL    | [Link](https://aclanthology.org/2024.findings-acl.272/) | - |
-| 2024 | **Enhancing Hyperbolic Knowledge Graph Embeddings via Lorentz Transformations** |    ACL    | [Link](https://aclanthology.org/2024.findings-acl.272/) | - |
-| 2024 | **3D Rotation and Translation for Hyperbolic Knowledge Graph Embedding** | ACL    | [Link](https://aclanthology.org/2024.eacl-long.90/) | - |
-| 2023 | **Decoupled Hyperbolic Graph Attention Network for Cross-domain Named Entity Recognition** |    SIGIR    | [Link](https://dl.acm.org/doi/10.1145/3539618.3591662) | - |
-| 2022 | **HyperKGQA: Question Answering over Knowledge Graphs using Hyperbolic Representation Learning** |ICDM | [Link](https://ieeexplore.ieee.org/document/10027777) | - |
-| 2021 | **Mixed-Curvature Multi-Relational Graph Neural Network for Knowledge Graph Completion** |    WWW    | [Link](https://dl.acm.org/doi/abs/10.1145/3442381.3450118) | - |
-| 2021 | **DataType-Aware Knowledge Graph Representation Learning in Hyperbolic Space** |    CIKM    | [Link](https://dl.acm.org/doi/10.1145/3459637.3482421) | - |
-| 2020 | **Low-Dimensional Hyperbolic Knowledge Graph Embeddings** |    ACL    | [Link](https://aclanthology.org/2020.acl-main.617/) | [Link](https://github.com/tensorflow/neural-structured-learning) |
-### Recommendation
+| Year | Title | Venue | Code | Architecture | Paradigm |
+|:----:|:---------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|:----:|:---:|:---:|
+| 2023 | **CONGREGATE: Contrastive Graph Clustering in Curvature Space** | IJCAI | [Link](https://github.com/CurvCluster/Congregate) | Clustering | Unsupervised |
+| 2024 | **Motif-aware Riemannian Graph Neural Network with Generative-Contrastive Learning** | AAAI | [Link](https://github.com/RiemannGraph/MotifRGC) | Convolution | Self-supervised |
+| 2024 | **R-ODE: Ricci Curvature Tells When You Will be Informed** | SIGIR | N/A | ODE | Generative |
+| 2024 | **RicciNet: Deep Clustering via A Riemannian Generative Model** | WWW | N/A | Clustering | Unsupervised |
+| 2024 | **Spiking Graph Neural Network on Riemannian Manifolds** | NeurIPS | [Link](https://www.google.com/search?q=https://github.com/ZhenhHuang/MSGM) | Convolution | Semi-supervised |
+| 2025 | **CurvGAD: Leveraging Curvature for Enhanced Graph Anomaly Detection** | ICML | [Link](https://github.com/karish-grover/curvgad) | Convolution | Anomaly Detection |
+| 2025 | **Pioneer: Physics-informed Riemannian Graph ODE for Entropy-increasing Dynamics** | AAAI | [Link](https://www.google.com/search?q=https://github.com/nakks2/Pioneer) | ODE | Semi-supervised |
+| 2025 | **Robust Explanations of Graph Neural Networks via Graph Curvatures** | NeurIPS | [Link](https://github.com/yazhengliu/Robust_explanation_curvature) | N/A | N/A |
+| 2025 | **Deeper with Riemannian Geometry: Overcoming Oversmoothing and Oversquashing for Graph Foundation Models** | NeurIPS | [Link](https://anonymous.4open.science/r/GBN-E854) | N/A | N/A |
 
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2025 | **Hyperbolic Graph Contrastive Learning for Collaborative Filtering** |    TKDE    | [Link](https://ieeexplore.ieee.org/document/10816511) | - |
-| 2024 | **HGCH: A Hyperbolic Graph Convolution Network Model for Heterogeneous Collaborative Graph Recommendation** | CIKM | [Link](https://dl.acm.org/doi/10.1145/3627673.3679701) | - |
-| 2023 | **Hyperbolic Graph Learning for Social Recommendation** |    TKDE    | [Link](https://ieeexplore.ieee.org/document/10361607) | - |
-| 2022 | **Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation** |    WSDM    | [Link](https://dl.acm.org/doi/10.1145/3488560.3498419) | - |
-| 2021 | **HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering** |    WWW    | [Link](https://dl.acm.org/doi/10.1145/3442381.3450101) | [Link](https://github.com/layer6ai-labs/HGCF.) |
-| 2021 | **Hyperbolic Hypergraphs for Sequential Recommendation** | CIKM | [Link](https://arxiv.org/abs/2108.08134) | - |
-| 2021 | **Fully Hyperbolic Graph Convolution Network for Recommendation** |    CIKM    | [Link](https://arxiv.org/abs/2108.04607) | - |
-### Sampling
-
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2023 | **Subsampling in Large Graphs Using Ricci Curvature** |    ICLR    | [Link](https://openreview.net/forum?id=w9WUQkBvpI)  | - |
-### Others
-
-| Year | Title                                                        | Venue |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ |:-----:| :----------------------------------------------------------: |:----:|
-| 2023 | **Hyperbolic Geometric Graph Representation Learning for Hierarchy-imbalance Node Classification** |    WWW    | [Link](https://dl.acm.org/doi/10.1145/3543507.3583403)  | - |
-| 2021 | **Exploring the Scale-Free Nature of Stock Markets: Hyperbolic Graph Learning for Algorithmic Trading** |    WWW    | [Link](https://dl.acm.org/doi/10.1145/3442381.3450095) | - |
-| 2021 | **Medical Triage Chatbot Diagnosis Improvement via Multi-relational Hyperbolic Graph Neural Network** |    SIGIR    | [Link](https://dl.acm.org/doi/10.1145/3404835.3463095) | - |
 
 ----
 
