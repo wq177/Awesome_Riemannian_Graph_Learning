@@ -1,4 +1,12 @@
 # [RiemannGL: Riemannian Geometry Changes Graph Deep Learning](https://arxiv.org/pdf/2602.10982)
+```
+@article{sun2026riemanngl,
+  title={RiemannGL: Riemannian Geometry Changes Graph Deep Learning},
+  author={Sun, Li and Wan, Qiqi and Zhou, Suyang and Huang, Zhenhao and Yu, Philip S},
+  journal={arXiv preprint arXiv:2602.10982},
+  year={2026}
+}
+```
 
 There is a collection of state-of-the-art papers on Riemannian Graph Learning methods. We focus on geometric deep learning methods that study non-Euclidean manifolds and curvature-aware representations for graph learning, particularly in hyperbolic and spherical spaces.
 
@@ -18,8 +26,8 @@ Riemannian Graph Learning is an emerging approach in graph representation learni
 
 | Year | Title                                                        |    Venue    |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
-| 2022 | **Hyperbolic Graph Neural Network：A Review of Methods and Applications** |    arxiv   | [Link](https://arxiv.org/abs/2202.13852) | - |
-
+| 2022 | **Hyperbolic Graph Neural Network: A Review of Methods and Applications** |    arxiv   | [Link](https://arxiv.org/abs/2202.13852) | - |
+| 2026 | **RiemannGL: Riemannian Geometry Changes Graph Deep Learning** |    arxiv   | [Link](https://arxiv.org/pdf/2602.10982) | - |
 ----
 
 # Papers
